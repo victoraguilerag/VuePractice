@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # platzimus
 
 > A Vue.js project
@@ -16,3 +17,7 @@ npm run build
 ```
 
 For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
+=======
+# VuePractice
+Single Page App for educational purposes
+>>>>>>> 3182caee02f7db0c40fd328a62e721230e48b7ea
